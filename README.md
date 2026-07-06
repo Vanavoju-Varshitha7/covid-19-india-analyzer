@@ -50,12 +50,13 @@ The analysis focuses on infection trends, recovery rates, mortality rates, and i
 ---
 
 ## 📂 Project Structure
+```
 COVID-19-India-Statewise-Analysis/
 │
 ├── covid_analysis.ipynb
 ├── covid_data.csv
 └── README.md
-
+```
 
 ---
 
