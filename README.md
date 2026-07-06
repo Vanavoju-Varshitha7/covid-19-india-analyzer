@@ -81,3 +81,8 @@ Varshitha
 B.Tech Data Science, Vignan Institute of Technology and Science
 
 Aspiring Data Analyst | Python | SQL | Power BI
+
+## 🔗 Connect
+
+- GitHub: https://github.com/Vanavoju-Varshitha7
+- LinkedIn: https://www.linkedin.com/in/v-varshitha-a8809b327
