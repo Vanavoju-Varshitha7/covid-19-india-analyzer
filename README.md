@@ -78,5 +78,5 @@ COVID-19-India-Statewise-Analysis/
 ## 👤 Author
 
 Varshitha
-B.Tech Data Science, Vignan Institute of Technology and Science
+B.Tech Data Science, Vignan Institute of Technology and Science|
 Aspiring Data Analyst | Python | SQL | Power BI
