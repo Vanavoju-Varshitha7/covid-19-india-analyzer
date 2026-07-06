@@ -84,5 +84,5 @@ Aspiring Data Analyst | Python | SQL | Power BI
 
 ## 🔗 Connect
 
-- GitHub: https://github.com/Vanavoju-Varshitha7
-- LinkedIn: https://www.linkedin.com/in/v-varshitha-a8809b327
+- GitHub: [Vanavoju-Varshitha7](https://github.com/Vanavoju-Varshitha7)
+- LinkedIn: [V. Varshitha](https://www.linkedin.com/in/v-varshitha-a8809b327)
